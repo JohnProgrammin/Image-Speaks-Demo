@@ -40,6 +40,7 @@ Currently live on GitHub as a practice project. Deployment to Netlify or Firebas
    git clone https://github.com/yourusername/project-image-speaks.git
 
 2.Install Dependencies
+```bash
   npm install
 
 3.Create a .env file in the root of the project and add your Firebase configuration:
@@ -52,5 +53,6 @@ REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_sender_id_here
 REACT_APP_FIREBASE_APP_ID=your_app_id_here
 
 4.Start the development server
+```bash
 npm start
 
