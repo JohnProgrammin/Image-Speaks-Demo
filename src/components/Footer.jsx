@@ -59,7 +59,7 @@ const Footer = () => {
           <div className="text-center md:text-left mb-4 md:mb-0">
             <p className="text-sm transition-colors duration-300"
                style={{ color: darkMode ? 'var(--text-secondary)' : '#6b7280' }}>
-              © {new Date().getFullYear()} Frame & Focus Photography. All rights reserved.
+              © {new Date().getFullYear()} Image Speaks Photography. All rights reserved.
             </p>
           </div>
 
