@@ -5,7 +5,6 @@ A modern portfolio website for a photography studio. Built with React, styled wi
 ## Features
 
 ### Global Components
-- **Header Component** – Displays the studio’s name/branding at the top of every page.  
 - **Navigation Bar (Navbar)** – Provides easy navigation across pages. Integrated with the theme context to update according to dark/light mode.  
 - **Footer Component** – Displayed consistently across all pages.  
 
