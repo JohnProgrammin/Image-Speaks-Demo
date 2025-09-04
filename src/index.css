@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* index.css */
+:root {
+  --bg-primary: #f9fafb;
+  --bg-secondary: #f3f4f6;
+  --text-primary: #1f2937;
+  --text-secondary: #4b5563;
+  --bg-card: #ffffff;
+  --nav-bg: rgba(255, 255, 255, 0.95);
+}
+
+/* Smooth transitions for all interactive elements */
+button, a {
+  transition: all 0.3s ease;
+}
+
+/* Custom focus styles for accessibility */
+button:focus, a:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
